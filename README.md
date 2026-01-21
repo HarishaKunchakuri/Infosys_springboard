@@ -1,0 +1,1 @@
+WebScour is a distributed web crawling and search engine system designed to efficiently crawl web pages, extract content, index data, and enable fast keyword-based searching. The project demonstrates core concepts of distributed systems, information retrieval, and search engine architecture.
